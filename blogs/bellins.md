@@ -6,6 +6,7 @@
 - 대표 (서브도메인): [https://bellins.writerun.blog](https://bellins.writerun.blog)
 
 ## 최근 글
+- [좋은 IT 솔루션은 정확한 진단에서 시작됩니다](https://bellins.writerun.blog/it-solution-accurate-diagnosis) — 2026-07-21
 - [글로벌 메모리 쇼티지, 치솟는 스토리지 증설 비용에 대비하는 기업의 생존 전략](https://bellins.writerun.blog/global-memory-shortage-storage-expansion-costs-business-survival-strategy) — 2026-07-21
 - [문서 용량 줄이기만으로 RAG가 빨라질까?](https://bellins.writerun.blog/rag-document-size-reduction-speed) — 2026-07-21
 
