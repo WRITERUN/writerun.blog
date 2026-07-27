@@ -13,7 +13,6 @@
 |---|---|---|---|
 | [테온 기술 블로그](blogs/teon1.md) | [test1234.teon.kr](https://test1234.teon.kr) | 커스텀 도메인 | NAS·인프라 운영 실무 노트 |
 | [벨아이앤에스 블로그](blogs/bellins.md) | [bellins.writerun.blog](https://bellins.writerun.blog) | 서브도메인 | 벨아이앤에스 기술 노트 |
-| [벨아이앤에스](blogs/bell.md) | [bell.writerun.blog](https://bell.writerun.blog) | 서브도메인 |  |
 
 각 채널 상세(주소 구성·최근 글)는 위 채널명 링크의 문서에서 볼 수 있습니다.
 
